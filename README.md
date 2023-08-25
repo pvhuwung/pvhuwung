@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **No Fun**
 <img align="right" width="38%" src="https://i.pinimg.com/originals/88/b8/5a/88b85afd0581a4d9b1d937b25c60e4f2.gif" alt="Embedded GIF">
 
-<picture width="50%">
+<picture width="50%" height="80%">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
