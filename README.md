@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **No Fun**
 
 <p>
-  <picture width="38%" align="left">
+  <picture width="30%">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
 </picture>
 
-<picture width="38%" align="right" >
+<picture width="30%" align="right">
   <source
     srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
     media="(prefers-color-scheme: dark)"
@@ -31,6 +31,9 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+  <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
+</picture>
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
 </picture>
 </p>
