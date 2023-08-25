@@ -4,29 +4,36 @@
 src="https://gifdb.com/images/high/4k-anime-498-x-241-gif-kpnnk8elfpjxlmze.gif" alt="Embedded GIF">
 
 
-  <picture width="100%" height="100%">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark&card_width=50"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue&card_width=50"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
-  </picture>
-  
-  <picture width="100%" height="100%">
-    <source
-      srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&card_width=60"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&card_width=60"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
-  </picture>
+ <table>
+  <tr>
+    <td>
+      <picture width="100%" height="100%">
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <picture width="100%" height="100%">
+        <source
+          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 
 
