@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
 </picture>
 
-![image](https://github.com/pham0084/pham0084/assets/112598471/fe86fb4c-edee-4939-954f-28069931a562)
+![goku](https://media0.giphy.com/media/4GvoqJVUHL5fdgvidL/giphy.gif?cid=ecf05e4745b7dyag5l8smocfm6corrdb1x3cg1sbcmr2lcca&ep=v1_gifs_search&rid=giphy.gif&ct=g)
