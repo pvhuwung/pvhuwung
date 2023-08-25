@@ -10,13 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **No Fun**
 
 <!-- Dark Mode -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true" media="(prefers-color-scheme: dark)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" alt="Dark Mode Stats" media="(prefers-color-scheme: dark)">
-</picture>
+![Dark Mode Stats](https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true)
+![Dark Mode Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark)
 
 <!-- Light Mode -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" alt="Light Mode Stats">
-</picture>
+![Light Mode Stats](https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true)
+![Light Mode Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue)
