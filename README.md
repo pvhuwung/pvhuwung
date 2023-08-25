@@ -9,19 +9,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<!-- Placeholder divs for stats and top languages -->
+<div id="stats"></div>
+<div id="top-langs"></div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
-</picture>
+<!-- JavaScript to load GitHub stats based on color scheme -->
+<script>
+  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-<picture>
+  const statsDiv = document.getElementById('stats');
+  const topLangsDiv = document.getElementById('top-langs');
 
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
+  const statsImage = document.createElement('img');
+  const topLangsImage = document.createElement('img');
 
-</picture>
+  if (isDarkMode) {
+    statsImage.src = 'https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true';
+    topLangsImage.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark';
+  } else {
+    statsImage.src = 'https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true';
+    topLangsImage.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue';
+  }
 
+  statsDiv.appendChild(statsImage);
+  topLangsDiv.appendChild(topLangsImage);
+</script>
