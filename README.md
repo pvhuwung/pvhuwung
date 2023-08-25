@@ -9,10 +9,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
 
-![Dark Mode Stats](https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true)
-![Dark Mode Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark)
-![Light Mode Stats](https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true)
-![Light Mode Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 
-<!-- If you prefer using the img tag for the stats -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
+</picture>
