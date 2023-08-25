@@ -15,8 +15,8 @@ Here are some ideas to get you started:
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue&card_width=50"
+      media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
   </picture>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue&card_width=60"
+      srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&card_width=60"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
