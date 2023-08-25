@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=transparent)
