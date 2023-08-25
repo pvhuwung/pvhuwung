@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin.com/in/vn-phamviethung](https://www.linkedin.com/in/vn-phamviethung)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
-
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark"
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
 </picture>
+
+![image](https://github.com/pham0084/pham0084/assets/112598471/fe86fb4c-edee-4939-954f-28069931a562)
