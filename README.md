@@ -9,28 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
 
-<!-- Placeholder divs for stats and top languages -->
-<div id="stats"></div>
-<div id="top-langs"></div>
+![Dark Mode Stats](https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true)
+![Dark Mode Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark)
+![Light Mode Stats](https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true)
+![Light Mode Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue)
 
-<!-- JavaScript to load GitHub stats based on color scheme -->
-<script>
-  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  const statsDiv = document.getElementById('stats');
-  const topLangsDiv = document.getElementById('top-langs');
-
-  const statsImage = document.createElement('img');
-  const topLangsImage = document.createElement('img');
-
-  if (isDarkMode) {
-    statsImage.src = 'https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true';
-    topLangsImage.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark';
-  } else {
-    statsImage.src = 'https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true';
-    topLangsImage.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue';
-  }
-
-  statsDiv.appendChild(statsImage);
-  topLangsDiv.appendChild(topLangsImage);
-</script>
+<!-- If you prefer using the img tag for the stats -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" /> -->
