@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </picture>
 <picture width="50%" height="80%">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark"
+    srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
 </picture>
 
-
+ 
