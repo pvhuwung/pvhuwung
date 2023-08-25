@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 
 <!-- Dark Mode -->
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue-dark" alt="Dark Mode Stats" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue-dark&show_icons=true" media="(prefers-color-scheme: dark)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" alt="Dark Mode Stats" media="(prefers-color-scheme: dark)">
 </picture>
 
 <!-- Light Mode -->
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" alt="Light Mode Stats" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=pham0084&theme=vue&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pham0084&hide_progress=true&theme=vue" alt="Light Mode Stats">
 </picture>
