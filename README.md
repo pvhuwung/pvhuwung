@@ -9,25 +9,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
 
-  <picture display: inline-block;">
+  <picture width="100%" height="100%">
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark&card_width=50"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue"
+      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue&card_width=50"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
   </picture>
   
-  <picture display: inline-block>
+  <picture width="100%" height="100%">
     <source
-      srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
+      srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&card_width=60"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue"
+      srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue&card_width=60"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
