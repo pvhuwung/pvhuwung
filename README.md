@@ -1,9 +1,4 @@
 
-
-
-<section width="50%>
-  Here are some ideas to get you started:
-
 - 🔭 I’m currently working at **Advance Intelligence Group**
 - 🌱 I’m currently learning about **Cloud, Software, and AI**
 - 👯 I’m looking to collaborate on **Innovative AI and App Projects**
@@ -11,8 +6,6 @@
 - 📫 How to reach me: [linkedin.com/in/vn-phamviethung](https://www.linkedin.com/in/vn-phamviethung)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
-
-</section>
 
 <img align="right" width="38%" src="https://i.pinimg.com/originals/88/b8/5a/88b85afd0581a4d9b1d937b25c60e4f2.gif" alt="Embedded GIF">
 
