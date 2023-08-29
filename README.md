@@ -7,7 +7,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td>
       <picture width="100%" height="100%">
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue-dark"
+          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=radical"
           media="(prefers-color-scheme: dark)"
         />
         <source
