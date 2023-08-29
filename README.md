@@ -34,6 +34,8 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
 </table>
 <img align="left" alt="Golang" width="50px" src="https://www.svgrepo.com/show/452214/go.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="50px" src="https://www.svgrepo.com/show/452091/python.svg" style="padding-right:10px;" />
+<img align="left" alt="Cplusplus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/448266/aws.svg" style="padding-right:10px;" />
 <img align="left" alt="GoogleCloud" width="50px" src="https://www.svgrepo.com/show/448223/gcp.svg" style="padding-right:10px;" />
