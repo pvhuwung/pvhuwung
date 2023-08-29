@@ -7,7 +7,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td>
       <picture width="100%" height="100%">
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=radical"
+          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=synthwave"
           media="(prefers-color-scheme: dark)"
         />
         <source
@@ -20,7 +20,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td>
       <picture width="100%" height="100%">
         <source
-          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
+          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
           media="(prefers-color-scheme: dark)"
         />
         <source
