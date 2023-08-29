@@ -75,10 +75,11 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
 <br/>
 <br/>
 
-<table>
+<table display="flex">
 <tr>
 <td>
-    
+    <img align="right" width="20%" src="https://thumbs.gfycat.com/RemorsefulGoodFoxterrier-size_restricted.gif" alt="Embedded GIF">
+
 ### Hi there! 👋
 Here are some ideas to get you started:
 
@@ -90,7 +91,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
 
-<img align="right" width="100%" src="https://i.pinimg.com/originals/4c/80/a6/4c80a6634d18ace57eecad448664d340.gif" alt="Embedded GIF">
 
 </td>
 <td>
