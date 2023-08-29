@@ -46,8 +46,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
 <img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-
+<img align="left" alt="Deno" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/512px-Deno_2021.svg.png?20220109092922" style="padding-right:10px;" />
 
 <br/>
 <br/>
