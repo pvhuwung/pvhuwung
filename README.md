@@ -40,6 +40,10 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td><img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/download/184143/java.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="Rust" width="50px" src="https://rustacean.net/assets/cuddlyferris.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></td>
+    <td><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></td>
+    <td><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></td>
+    <td><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></td>
+
   </tr>
   <tr>
     <td><img align="left" alt="TypeScript" width="50px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" /></td>
@@ -47,7 +51,11 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="NextJS" width="50px" src="https://ih1.redbubble.net/image.2299077473.8760/st,small,507x507-pad,600x600,f8f8f8.jpg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></td>
+    <td><img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="padding-right:10px;" /></td>
+    <td><img align="left" alt="Gitlab" width="50px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="padding-right:10px;" /></td>
+    <td><img align="left" alt="Firebase" width="50px" src="https://www.svgrepo.com/show/353735/firebase.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></td>
+
   </tr>
   <tr>
     <td><img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/448266/aws.svg" style="padding-right:10px;" /></td>
@@ -56,8 +64,6 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td><img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="FastAPI" width="50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></td>
-  </tr>
-  <tr>
     <td><img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></td>
     <td><img align="left" alt="Deno" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/512px-Deno_2021.svg.png?20220109092922" style="padding-right:10px;" /></td>
