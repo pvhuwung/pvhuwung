@@ -35,6 +35,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
 <img align="left" alt="Golang" width="50px" src="https://www.svgrepo.com/show/452214/go.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="50px" src="https://www.svgrepo.com/show/452091/python.svg" style="padding-right:10px;" />
 <img align="left" alt="Cplusplus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/download/184143/java.svg" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="50px" src="https://rustacean.net/assets/cuddlyferris.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="50px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" />
@@ -53,7 +54,6 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
 <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Deno" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/512px-Deno_2021.svg.png?20220109092922" style="padding-right:10px;" />
-
 <br/>
 <br/>
 
