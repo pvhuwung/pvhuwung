@@ -75,6 +75,10 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
 <br/>
 <br/>
 
+<table>
+<tr>
+<td>
+    
 ### Hi there! 👋
 Here are some ideas to get you started:
 
@@ -85,4 +89,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin.com/in/vn-phamviethung](https://www.linkedin.com/in/vn-phamviethung)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
-  
+</td>
+<td>
+<img align="right" width="100%"
+src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21CA4F54F65159C1C4C6B870F0807E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">
+</td>
+  </tr>
+</table>
