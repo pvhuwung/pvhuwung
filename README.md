@@ -89,6 +89,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin.com/in/vn-phamviethung](https://www.linkedin.com/in/vn-phamviethung)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
+
+<img align="right" width="100%" src="https://i.pinimg.com/originals/4c/80/a6/4c80a6634d18ace57eecad448664d340.gif" alt="Embedded GIF">
+
 </td>
 <td>
 <img align="right" width="100%"
