@@ -1,7 +1,6 @@
 <img href="https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works" align="right" width="100%"
 src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821537E54992AF32B05D8EB05BF68/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pham0084&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <table>
   <tr>
@@ -69,6 +68,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
   </tr>
 </table>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pham0084&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
