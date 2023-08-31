@@ -45,15 +45,15 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td><a href="https://deno.land/"><img align="left" alt="Deno" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/512px-Deno_2021.svg.png?20220109092922" style="padding-right:10px;" /></a></td>
   </tr>
   <tr>
-    <td><a href="#"><img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="NextJS" width="50px" src="https://ih1.redbubble.net/image.2299077473.8760/st,small,507x507-pad,600x600,f8f8f8.jpg" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="Github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="Gitlab" width="50px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="#"><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://nodejs.org/"><img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://streamlit.io/"><img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://nextjs.org/"><img align="left" alt="NextJS" width="50px" src="https://ih1.redbubble.net/image.2299077473.8760/st,small,507x507-pad,600x600,f8f8f8.jpg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://github.com/"><img align="left" alt="Github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" /></a></td>
+    <td><a href="https://about.gitlab.com/"><img align="left" alt="Gitlab" width="50px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://git-scm.com/"><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://www.docker.com/"><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></a></td>
   </tr>
   <tr>
     <td><a href="#"><img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/448266/aws.svg" style="padding-right:10px;" /></a></td>
