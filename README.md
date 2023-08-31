@@ -68,8 +68,6 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
   </tr>
 </table>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pham0084&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br/>
 <br/>
 
@@ -97,3 +95,5 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
 </td>
   </tr>
 </table>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pham0084&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
