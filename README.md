@@ -96,7 +96,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
   </tr>
 </table>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pham0084&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pham0084&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
