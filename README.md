@@ -146,7 +146,7 @@ func main() {
 		Pronouns:    "He/Him",
 		Company:   "Advance Intelligence Group",
 		Backend:     []string{"Go", "Python", "Rust", "C++"},
-		Frontend:    []string{"HTML", "Typescript", "NextJS", "CSS"},
+		Frontend:    []string{"Typescript", "NextJS", "HTML", "CSS"},
 		Database:    []string{"PostgreSQL", "DynamoDB", "Firebase", "Redis"},
 		CloudServer: []string{"AWS", "GCP", "DigitalOcean", "Heroku"},
 		Architecture: ArchitectureInfo{
