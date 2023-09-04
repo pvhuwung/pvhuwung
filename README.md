@@ -155,7 +155,8 @@ func main() {
 			Challenges: []string{"Scalability", "Resilience", "Security"},
 			Serverless: []string{"Lambda", "API Gateway"},
 		},
-		Challenge: "Keep getting better, even if it's just 0.001% each day. Consistency turns those tiny gains into something big",
+		Challenge: "Keep getting better, even if it's just 0.001% each day.
+				Consistency turns those tiny gains into something big",
 		AISkills:  []string{"AI", "LLM", "ComputerVision", "DeepLearning", "GenAI"},
 	}
 
