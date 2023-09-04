@@ -157,7 +157,7 @@ func main() {
 		},
 		Challenge: []string{"Keep getting better, even if it's just 0.001% each day.",
 					"Consistency turns those tiny gains into something big"},
-		AISkills:  []string{"AI", "LLM", "ComputerVision", "DeepLearning", "GenAI"},
+		AISkills:  []string{"MachineLearning", "DeepLearning", "GenAI", "AI", "LLM", "ComputerVision"},
 	}
 
 	val := reflect.ValueOf(PVHUWUNG)
