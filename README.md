@@ -7,7 +7,7 @@
    <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://github.com/pvhuwung">
-     <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=green" alt="page views">
+     <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=blue" alt="page views">
   </a>
  <a href="https://github.com/?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=purple&logo=github&style=for-the-badge">
