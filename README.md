@@ -156,7 +156,7 @@ func main() {
 			Serverless: []string{"Lambda", "API Gateway"},
 		},
 		Challenge: []string{"Keep getting better, even if it's just 0.001% each day.",
-					"Consistency turns those tiny gains into something big"}
+					"Consistency turns those tiny gains into something big"},
 		AISkills:  []string{"AI", "LLM", "ComputerVision", "DeepLearning", "GenAI"},
 	}
 
