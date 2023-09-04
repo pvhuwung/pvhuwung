@@ -7,10 +7,10 @@
    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://github.com/pham0084?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pham0084?color=green&logo=github&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=green&logo=github&style=for-the-badge">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-     <img src="https://komarev.com/ghpvc/?username=pham0084&style=for-the-badge" alt="page views">
+     <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge" alt="page views">
   </a>
 </p>
 
