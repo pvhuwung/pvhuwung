@@ -129,7 +129,7 @@ type PVHuwung struct {
 	Database     []string
 	CloudServer  []string
 	Architecture ArchitectureInfo
-	Challenge    string
+	Challenge    []string
 	AISkills     []string
 	Company      string
 }
@@ -155,9 +155,8 @@ func main() {
 			Challenges: []string{"Scalability", "Resilience", "Security"},
 			Serverless: []string{"Lambda", "API Gateway"},
 		},
-		Challenge:
-				"Keep getting better, even if it's just 0.001% each day.
-				Consistency turns those tiny gains into something big",
+		Challenge: []string{"Keep getting better, even if it's just 0.001% each day.",
+					"Consistency turns those tiny gains into something big"}
 		AISkills:  []string{"AI", "LLM", "ComputerVision", "DeepLearning", "GenAI"},
 	}
 
