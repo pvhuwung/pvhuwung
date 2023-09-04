@@ -1,12 +1,12 @@
 <h1 align="left" id="macropower-title"> 🇻🇳🇸🇬 Hi Folks! I'm David a.k.a PVHuwung</h1>
 <p align="left">
-  <a href="https://github.com/pham0084">
+  <a href="https://www.linkedin.com/in/vn-phamviethung/">
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
    <a href="pvh.vercel.app">
    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://github.com/pham0084?tab=followers">
+  <a href="https://github.com/?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=green&logo=github&style=for-the-badge">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
@@ -25,27 +25,27 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td>
       <picture width="100%" height="100%">
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=synthwave"
+          srcset="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true&theme=synthwave"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true&theme=vue"
+          srcset="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true&theme=vue"
           media="(prefers-color-scheme: light)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true" />
       </picture>
     </td>
     <td>
       <picture width="100%" height="100%">
         <source
-          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
+          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pvhuwung&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pham0084&theme=vue&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
+          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pvhuwung&theme=vue&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=pham0084&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true" />
       </picture>
     </td>
   </tr>
@@ -114,7 +114,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
   </tr>
 </table>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pham0084&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pvhuwung&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
