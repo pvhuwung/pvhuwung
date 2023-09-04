@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/vn-phamviethung/">
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-   <a href="pvh.vercel.app">
+   <a href="https://pvh.vercel.app">
    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://github.com/?tab=followers">
