@@ -114,6 +114,60 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
   </tr>
 </table>
 
+```go
+package main
+
+import (
+	"fmt"
+	"reflect"
+)
+
+type PVHuwung struct {
+	Pronouns     string
+	Backend      []string
+	Frontend     []string
+	Database     []string
+	CloudServer  []string
+	Architecture ArchitectureInfo
+	Challenge    string
+	AISkills     []string
+	Company      string
+}
+
+type ArchitectureInfo struct {
+	Patterns   []string
+	Components []string
+	Challenges []string
+	Serverless []string
+}
+
+func main() {
+	var PVHUWUNG = PVHuwung{
+		Pronouns:    "He/Him",
+		Company:   "Advance Intelligence Group",
+		Backend:     []string{"Go", "Python", "Rust", "C++"},
+		Frontend:    []string{"HTML", "Typescript", "NextJS", "CSS"},
+		Database:    []string{"PostgreSQL", "DynamoDB", "Firebase", "Redis"},
+		CloudServer: []string{"AWS", "GCP", "DigitalOcean", "Heroku"},
+		Architecture: ArchitectureInfo{
+			Patterns:   []string{"Microservices", "Event-driven", "System Design"},
+			Components: []string{"Docker", "Kubernetes", "Kafka", "GraphQL"},
+			Challenges: []string{"Scalability", "Resilience", "Security"},
+			Serverless: []string{"Lambda", "API Gateway"},
+		},
+		Challenge: "Some Challenge",
+		AISkills:  []string{"AI", "LLM", "ComputerVision", "DeepLearning", "GenAI"},
+	}
+
+	val := reflect.ValueOf(PVHUWUNG)
+	for i := 0; i < val.NumField(); i++ {
+		field := val.Field(i)
+		fieldName := val.Type().Field(i).Name
+		fmt.Printf("- %s: %v\n", fieldName, field.Interface())
+	}
+}
+```
+
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pvhuwung&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
 
 <p align="center">
