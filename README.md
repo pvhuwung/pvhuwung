@@ -4,13 +4,13 @@
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
    <a href="https://pvh.vercel.app">
-   <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+   <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://github.com/?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=purple&logo=github&style=for-the-badge">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+  <a href="https://github.com/pvhuwung">
      <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=green" alt="page views">
+  </a>
+ <a href="https://github.com/?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=purple&logo=github&style=for-the-badge">
   </a>
 </p>
 
