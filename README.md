@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 🏎️ pronouns=" He/Him"
 🤖 funFact=" No Fun"
 
-info="$currentJob\n$learning\n$collaboration\n$askMeAbout\
-	              n$howToReachMe\n$pronouns\n$funFact"
+info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\
+n$pronouns\n$funFact"
 
 echo -e "$info"
 
