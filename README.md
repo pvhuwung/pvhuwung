@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 
 🔭 currentJob=" Currently working at: Advance Intelligence Group"
 🌱 learning=" Learning about: Cloud, Software, and AI"
-🏔️ collaboration=" Looking to collaborate on: Innovative AI and App Projects"
-💬 askMeAbout=" Ask me about: API Development, Cloud, AI, and System Design"
-📫 linkedIn=" How to reach me: linkedin.com/in/vn-phamviethung"
-🏎️ pronouns=" Pronouns: He/Him"
-🤖 funFact=" Fun fact: No Fun"
+🏔️ collaboration=" Innovative AI and App Projects"
+💬 askMeAbout=" API Development, Cloud, AI, and System Design"
+📫 howToReachMe=" linkedin.com/in/vn-phamviethung"
+🏎️ pronouns=" He/Him"
+🤖 funFact=" No Fun"
 
-info="$currentJob\n$learning\n$collaboration\
-n$askMeAbout\n$linkedIn\n$pronouns\n$funFact"
+info="$currentJob\n$learning\n$collaboration\n$askMeAbout\
+	              n$howToReachMe\n$pronouns\n$funFact"
 
 echo -e "$info"
 
