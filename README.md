@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<table >
+<table width="100%" >
 <tr>
 <td >
     <img align="right" width="40%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
