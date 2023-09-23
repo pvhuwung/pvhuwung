@@ -16,7 +16,7 @@
 
 <table display="flex">
 <tr>
-<td width="80%">
+<td width="70%">
     <img align="right" width="40%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
 
 ### Hi there! 👋
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 </td>
-<td width="20%">
+<td width="30%">
 <img align="right" width="100%"
 src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21CA4F54F65159C1C4C6B870F0807E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">
 </td>
