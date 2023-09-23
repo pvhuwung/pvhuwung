@@ -14,8 +14,30 @@
   </a>
 </p>
 
-[<img align="right" width="100%"
-src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821537E54992AF32B05D8EB05BF68/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">](https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works)
+<table display="flex">
+<tr>
+<td>
+    <img align="right" width="20%" src="https://thumbs.gfycat.com/RemorsefulGoodFoxterrier-size_restricted.gif" alt="Embedded GIF">
+
+### Hi there! 👋
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working at **Advance Intelligence Group**
+- 🌱 I’m currently learning about **Cloud, Software, and AI**
+- 👯 I’m looking to collaborate on **Innovative AI and App Projects**
+- 💬 Ask me about **API Development, Cloud, AI, and System Design**
+- 📫 How to reach me: [linkedin.com/in/vn-phamviethung](https://www.linkedin.com/in/vn-phamviethung)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **No Fun**
+
+
+</td>
+<td>
+<img align="right" width="100%"
+src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21CA4F54F65159C1C4C6B870F0807E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">
+</td>
+  </tr>
+</table>
 
 
 
@@ -84,30 +106,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821
     <td><a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" style="padding-right:10px;" /></a></td>
   </tr>
 </table>
-<table display="flex">
-<tr>
-<td>
-    <img align="right" width="20%" src="https://thumbs.gfycat.com/RemorsefulGoodFoxterrier-size_restricted.gif" alt="Embedded GIF">
 
-### Hi there! 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at **Advance Intelligence Group**
-- 🌱 I’m currently learning about **Cloud, Software, and AI**
-- 👯 I’m looking to collaborate on **Innovative AI and App Projects**
-- 💬 Ask me about **API Development, Cloud, AI, and System Design**
-- 📫 How to reach me: [linkedin.com/in/vn-phamviethung](https://www.linkedin.com/in/vn-phamviethung)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **No Fun**
-
-
-</td>
-<td>
-<img align="right" width="100%"
-src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21CA4F54F65159C1C4C6B870F0807E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">
-</td>
-  </tr>
-</table>
 
 ```go
 // Get to know more about me with some Golang
@@ -172,7 +171,7 @@ func main() {
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pvhuwung&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
 
 [<img align="right" width="100%"
-src="https://media.tenor.com/55QpmXsoE3YAAAAC/naruto.gif/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">](https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works)
+src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821537E54992AF32B05D8EB05BF68/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">](https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works)
 
 
 <p align="center">
