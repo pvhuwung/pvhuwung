@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<table width="100%" >
+<table width="100%" height="100%" >
 <tr>
 <td >
     <img align="right" width="40%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 </td>
-<td>
+<td width="50%" height="50%">
 <img align="right" width="100%" height="100%"
 src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21CA4F54F65159C1C4C6B870F0807E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">
 </td>
