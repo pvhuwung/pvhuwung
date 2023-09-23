@@ -17,7 +17,7 @@
 <table width="100%" height="100%" >
 <tr>
 <td >
-    <img align="left" width="12%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
+    <img align="left" width="18%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
 	
 ### Hi there! 👋
 Here are some ideas to get you started:
