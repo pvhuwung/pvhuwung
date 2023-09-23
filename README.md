@@ -22,14 +22,21 @@
 ### Hi there! 👋
 Here are some ideas to get you started:
 
-```
-- 🔭 I’m currently working at **Advance Intelligence Group**
-- 🌱 I’m currently learning about **Cloud, Software, and AI**
-- 👯 I’m looking to collaborate on **Innovative AI and App Projects**
-- 💬 Ask me about **API Development, Cloud, AI, and System Design**
-- 📫 How to reach me: linkedin.com/in/vn-phamviethung
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **No Fun**
+```bash
+#!/bin/bash
+
+🔭 currentJob=" Currently working at: Advance Intelligence Group"
+🌱 learning=" Learning about: Cloud, Software, and AI"
+🏔️ collaboration=" Looking to collaborate on: Innovative AI and App Projects"
+💬 askMeAbout=" Ask me about: API Development, Cloud, AI, and System Design"
+📫 linkedIn=" How to reach me: [LinkedIn](https://www.linkedin.com/in/vn-phamviethung)"
+🏎️ pronouns=" Pronouns: He/Him"
+🤖 funFact=" Fun fact: No Fun"
+
+info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$linkedIn\n$pronouns\n$funFact"
+
+echo -e "$info"
+
 ```
   
 </td>
