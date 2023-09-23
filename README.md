@@ -17,7 +17,7 @@
 <table display="flex">
 <tr>
 <td>
-    <img align="right" width="20%" src="https://thumbs.gfycat.com/RemorsefulGoodFoxterrier-size_restricted.gif" alt="Embedded GIF">
+    <img align="right" width="40%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
 
 ### Hi there! 👋
 Here are some ideas to get you started:
