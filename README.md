@@ -17,19 +17,21 @@
 <table width="100%" height="100%" >
 <tr>
 <td >
-    <img align="left" width="10%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
-
+    <img align="left" width="12%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
+	
 ### Hi there! 👋
 Here are some ideas to get you started:
 
+```
 - 🔭 I’m currently working at **Advance Intelligence Group**
 - 🌱 I’m currently learning about **Cloud, Software, and AI**
 - 👯 I’m looking to collaborate on **Innovative AI and App Projects**
 - 💬 Ask me about **API Development, Cloud, AI, and System Design**
-- 📫 How to reach me: [linkedin.com/in/vn-phamviethung](https://www.linkedin.com/in/vn-phamviethung)
+- 📫 How to reach me: linkedin.com/in/vn-phamviethung
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **No Fun**
-
+```
+  
 </td>
 <td >
 <img align="right" width="100%" height="100%" 
