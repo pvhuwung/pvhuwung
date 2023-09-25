@@ -7,7 +7,7 @@
    <img alt="GCP" src="https://img.shields.io/badge/Google Cloud Profile-%234285F4.svg?style=for-the-badge&color=yellow&logo=google-cloud&logoColor=white">
   </a>
    <a href="https://pvh.vercel.app">
-   <img alt="Portfolio" src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=next.js&logoColor=white">
+   <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
   <a href="https://github.com/pvhuwung">
      <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=yellow" alt="page views">
