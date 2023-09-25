@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/vn-phamviethung/">
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/7b545e20-e4e6-42d0-99a6-1015ae0d63e8">
+   <img alt="Awesome" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  </a>
    <a href="https://pvh.vercel.app">
    <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
