@@ -52,37 +52,6 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
 </table>
 
 
-
- <table>
-  <tr>
-    <td>
-      <picture width="100%" height="100%">
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true&theme=synthwave"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true&theme=vue"
-          media="(prefers-color-scheme: light)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true" />
-      </picture>
-    </td>
-    <td>
-      <picture width="100%" height="100%">
-        <source
-          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pvhuwung&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="http://github-readme-streak-stats.herokuapp.com/?user=pvhuwung&theme=vue&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=pvhuwung&show_icons=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
 <table>
   <tr>
     <td><a href="https://golang.org/"><img align="left" alt="Golang" width="50px" src="https://www.svgrepo.com/show/452214/go.svg" style="padding-right:10px;" /></a></td>
@@ -120,74 +89,6 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
 </table>
 
 
-```go
-// Get to know more about me with some Golang
-package main
-
-import (
-	"fmt"
-	"reflect"
-)
-
-type PVHuwung struct {
-	Pronouns     string
-	Backend      []string
-	Frontend     []string
-	Database     []string
-	CloudServer  []string
-	Architecture ArchitectureInfo
-	Challenge    []string
-	AISkills     []string
-	Company      string
-}
-
-type ArchitectureInfo struct {
-	Patterns   []string
-	Components []string
-	Challenges []string
-	Serverless []string
-}
-
-func main() {
-	var PVHUWUNG = PVHuwung{
-		Pronouns:    "He/Him",
-		Company:   "Advance Intelligence Group",
-		Backend:     []string{"Go", "Python", "Rust", "C++"},
-		Frontend:    []string{"Typescript", "NextJS", "HTML", "CSS"},
-		Database:    []string{"PostgreSQL", "DynamoDB", "Firebase", "Redis"},
-		CloudServer: []string{"AWS", "GCP", "DigitalOcean", "Heroku"},
-		Architecture: ArchitectureInfo{
-			Patterns:   []string{"Microservices", "Event-driven", "System Design"},
-			Components: []string{"Docker", "Kubernetes", "Kafka", "GraphQL"},
-			Challenges: []string{"Scalability", "Resilience", "Security"},
-			Serverless: []string{"Lambda", "API Gateway"},
-		},
-		Challenge: []string{"Keep getting better, even if it's just 0.001% each day.",
-					"Consistency turns those tiny gains into something big"},
-		AISkills:  []string{"MachineLearning", "DeepLearning", "AI", "GenAI", "LLM", "ComputerVision"},
-	}
-
-	val := reflect.ValueOf(PVHUWUNG)
-	for i := 0; i < val.NumField(); i++ {
-		field := val.Field(i)
-		fieldName := val.Type().Field(i).Name
-		fmt.Printf("- %s: %v\n", fieldName, field.Interface())
-	}
-}
-```
-
-```go
-	// Feel free to folk or use, but don't forget to give a star ⭐⭐⭐. Thanks!!!!
-```
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pvhuwung&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
-
-[<img align="right" width="100%"
-src="https://steamuserimages-a.akamaihd.net/ugc/31868616510251946/47AFE978947821537E54992AF32B05D8EB05BF68/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">](https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
-
 
