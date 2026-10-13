@@ -1,10 +1,10 @@
-<h1 align="left" id="macropower-title"> 🇻🇳🇸🇬 Hi Folks! I'm David a.k.a PVHuwung</h1>
+<h1 align="left"> 🇻🇳🇸🇬 Hi Folks! I'm David a.k.a PVHuwung</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/vn-phamviethung/">
-   <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/7b545e20-e4e6-42d0-99a6-1015ae0d63e8">
-   <img alt="GCP" src="https://img.shields.io/badge/Google Cloud Profile-%234285F4.svg?style=for-the-badge&color=yellow&logo=google-cloud&logoColor=white">
+   <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud%20Profile-%234285F4.svg?style=for-the-badge&color=yellow&logo=google-cloud&logoColor=white">
   </a>
    <a href="https://pvhuwung.com">
    <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=next.js&logoColor=white">
@@ -12,7 +12,7 @@
   <a href="https://github.com/pvhuwung">
      <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=yellow" alt="page views">
   </a>
- <a href="https://github.com/?tab=followers">
+ <a href="https://github.com/pvhuwung?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=blue&logo=github&style=for-the-badge">
   </a>
 </p>
@@ -20,10 +20,9 @@
 <table width="100%" height="100%" >
 <tr width="60%" height="100%">
 <td >
-    <img align="left" width="18%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
+    <img align="left" width="18%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Waving anime character">
 	
 ### Hi there! 👋
-Here are some ideas to get you started:
 
 ```bash
 #!/bin/bash
@@ -36,8 +35,7 @@ Here are some ideas to get you started:
 🏎️ pronouns=" He/Him"
 🤖 funFact=" No Fun"
 
-info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\
-n$pronouns\n$funFact"
+info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\n$pronouns\n$funFact"
 
 echo -e "$info"
 
@@ -46,7 +44,7 @@ echo -e "$info"
 </td>
 <td width="40%" height="100%">
 <img align="right" width="100%" height="100%" 
-src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21CA4F54F65159C1C4C6B870F0807E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Embedded GIF">
+src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21CA4F54F65159C1C4C6B870F0807E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Animated banner">
 </td>
   </tr>
 </table>
@@ -69,7 +67,7 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a></td>
     <td><a href="https://nodejs.org/"><img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a></td>
     <td><a href="https://streamlit.io/"><img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://nextjs.org/"><img align="left" alt="NextJS" width="50px" src="https://ih1.redbubble.net/image.2299077473.8760/st,small,507x507-pad,600x600,f8f8f8.jpg" style="padding-right:10px;" /></a></td>
+    <td><a href="https://nextjs.org/"><img align="left" alt="NextJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /></a></td>
     <td><a href="https://github.com/"><img align="left" alt="Github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" /></a></td>
     <td><a href="https://about.gitlab.com/"><img align="left" alt="Gitlab" width="50px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="padding-right:10px;" /></a></td>
     <td><a href="https://git-scm.com/"><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a></td>
