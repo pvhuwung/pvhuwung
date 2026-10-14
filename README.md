@@ -1,4 +1,4 @@
-<h1>🇻🇳🇸🇬 Hi Folks! I'm David a.k.a PVHuwung</h1>
+<h1>🇻🇳🇸🇬 Hi Folks! I'm David Pham</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/vn-phamviethung/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
